@@ -90,6 +90,9 @@ A step-by-step series of examples that tell you how to get a development env run
 
 Visit `http://localhost:8501` in your web browser to view the application.
 
+## Live Demo
+Check out the live site [here](https://adobe-gensolve-curvetopia.onrender.com/).
+
 ## Team Members
 
 - [Anish Singh](https://github.com/An525ish) - Team Lead
